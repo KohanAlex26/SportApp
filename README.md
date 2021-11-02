@@ -2,7 +2,7 @@
 
 -I implemented an application in Java with backend and frontend.
 
--For the backend I used Tomcat and for the frontend Angular.
+-For the backend I used Spring and Angular for the frontend.
 
 -For the database I used PostgreSQL.
 
